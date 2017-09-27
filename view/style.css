@@ -1,0 +1,61 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+    text-align: left;
+    width: 15px;
+    height: 15px;
+}
+
+body {
+	background-color: yellow;
+}
+
+h1 {
+	font-size: 500%;
+}
+
+.head {
+	background: orange;
+	color: black;
+	text-align: center;
+	padding: 100px;
+}
+
+
+.rem {
+	border-radius: 20px;
+	border: solid blue 10px;
+	float: left;
+	padding bottom: 40px;
+	font-size: 300%;
+	margin: 30px;
+}
+
+.pav {
+	background-color: aqua;
+	border: solid red 1px;
+	padding: 20px;
+	font-size: 50%;
+}
+
+.kaina {
+	color: red;
+	border: solid green 1px;
+	padding: 20px;
+	font-size:70%;
+}
+
+.apr {
+	border: solid red 1px;
+	padding: 20px;
+	font-size: 50%;
+}
+
+.foto {
+	padding: 20px;
+	font-size: 50%;
+	text-align: center;
+}

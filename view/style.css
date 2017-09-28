@@ -26,6 +26,7 @@ h1 {
 
 
 .rem {
+	background-color: pink;
 	border-radius: 20px;
 	border: solid blue 10px;
 	float: left;
@@ -34,14 +35,9 @@ h1 {
 	margin: 30px;
 }
 
-.pav {
-	background-color: aqua;
-	border: solid red 1px;
-	padding: 20px;
-	font-size: 50%;
-}
 
 .kaina {
+	background-color: yellow;
 	color: red;
 	border: solid green 1px;
 	padding: 20px;
@@ -55,6 +51,7 @@ h1 {
 }
 
 .foto {
+	border: solid black 1px;
 	padding: 20px;
 	font-size: 50%;
 	text-align: center;
